@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Mar 20 15:41:04 2022
-
 @author: kenny
 """
 import random
